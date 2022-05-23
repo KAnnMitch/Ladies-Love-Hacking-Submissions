@@ -1,5 +1,5 @@
 # Ladies-Love-Hacking-Submissions
-Hello! This is the official repo for Ledgers' "Ladies Love Hacking" Event. Please follow the instructions in the repo to learn how to add your porject to the repository.
+Hello! This is the official repo for Ledgers' "Ladies Love Hacking" Event. Please follow the instructions in the repo to learn how to add your project to the repository.
 
 Thank you for participating in the very first Ladies Love Hacking Hackathon, hosted by Ledger. Please include your submission in the list below with the following information provided in the given format: 
 
