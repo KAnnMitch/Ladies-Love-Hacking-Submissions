@@ -12,7 +12,7 @@ link to work/project
 PROJECT SUBMISSIONS:
 
 
-If for some reason you are unable to edit this MD, then feel free to add your submission to this google drive folder 
+If for some reason you are unable to edit this MD, then feel free to add your submission to this google drive folder:https://drive.google.com/drive/folders/1dk7JANpwmj6KmPDeKYmRw6hYPWnmA2cD?usp=sharing
 if those options do not work, please reach out to keisha.mitchell-ext@ledger.fr by 5/25/22, 8pm EST so that we may assist you further. 
 We look forward to seeing your work!
 *This repo will remain open and public until 5/26/22, 12am EST. 
