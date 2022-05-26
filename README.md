@@ -10,6 +10,11 @@ Team Members and role/contributions (if applicable)
 link to work/project 
 
 PROJECT SUBMISSIONS:
+- Team: Dynamedica
+  - Cause: Abortion Access
+  - Description: Access abortions anonymously and safely through crypto.
+  - Team Members: Yasmeen & Olivia
+  - Link: [Slideshow](https://www.canva.com/design/DAFBuHmKLlE/JQhdHFU30r91h3zv4c4JIQ/view?utm_content=DAFBuHmKLlE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 If for some reason you are unable to edit this MD, then feel free to add your submission to this google drive folder:https://drive.google.com/drive/folders/1dk7JANpwmj6KmPDeKYmRw6hYPWnmA2cD?usp=sharing
